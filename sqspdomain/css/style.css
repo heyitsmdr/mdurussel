@@ -1,0 +1,246 @@
+body {
+	background-image: url(../images/dark-grey-tile.png);
+	font-family: 'Open Sans', sans-serif;
+}
+
+.glowing-border:focus { 
+    outline: none;
+    border-color: #fff;
+    box-shadow: 0 0 10px #fff;
+}
+
+#box {
+	background-color: rgba(0,0,0,0.5);
+	border-radius: 15px;
+	position: absolute;
+
+    left: 50%;
+    top: 50%;
+
+    height: 180px;
+    margin-top: -90px;
+
+    width: 380px;
+    margin-left: -190px;
+}
+
+#box #title {
+	font-size: 18px;
+	color: #fff;
+	text-align: center;
+	margin: 8px 8px 2px 8px;
+}
+
+#box #desc {
+	font-size: 12px;
+	color: #fff;
+	text-align: center;
+	margin: 2px 4px 4px 4px;
+}
+
+#box #desc a {
+	color: #fc0;
+	text-decoration: none;
+}
+
+#box #desc a:hover {
+	text-decoration: underline;
+}
+
+#box #domain {
+	font-size: 14px;
+	text-align: center;
+	margin: 10px;
+}
+
+#box #domain input {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	background-color: rgba(25, 25, 25, 0.4);
+	color: #fff;
+	border: 1px solid #444;
+	padding: 6px;
+	width: 320px;
+	text-align: center;
+}
+
+#box #domain input:hover {
+	border: 1px solid #555;
+}
+
+#box #buttons {
+	text-align: center;
+}
+
+#box #buttons input {
+	font-family: 'Open Sans', sans-serif;
+	background-color: rgba(25, 25, 25, 0.4);
+	color: #fff;
+	font-size: 12px;
+	border: 1px solid #444;
+	padding: 4px;
+}
+
+#box #buttons input:hover {
+	border: 1px solid #555;
+	text-decoration: underline;
+}
+
+#box #unsure {
+	font-size: 12px;
+	color: #fff;
+	text-align: center;
+	margin: 10px 10px;
+}
+
+#box #unsure a {
+	color: #ff6;
+	padding-left: 2px;
+	text-decoration: none;
+}
+
+#box #unsure a:hover {
+	text-decoration: underline;
+}
+
+#box #results {
+	display: none;
+	text-align: center;
+	height: 100%;
+	font-size: 12px;
+	color: #eee;
+	padding: 10px;
+}
+
+#box #results a {
+	color: #ff9;
+	font-size: 12px;
+	text-decoration: none;
+	font-style: italic;
+}
+
+#box #results a:hover {
+	text-decoration: underline;
+}
+
+#box #results img {
+	margin-top: 50px;
+}
+
+#box #results span.error {
+	color: #f66;
+}
+
+#box #results .cat {
+	font-size: 16px;
+}
+
+#box #results .cat .www {
+	font-weight: 600;
+	color: #ffcc66;
+}
+
+#box #results .data {
+	color: #ff9;
+}
+
+#box #results .good, #box #results .bad, #box #results .except {
+	float: right;
+	text-shadow: 1px 1px 1px #000;
+}
+
+#box #results .good {
+	color: #9f9;
+}
+
+#box #results .bad {
+	color: #f66;
+}
+
+#box #results .except {
+	color: #ff0;
+}
+
+#box #results #outcome-good, #box #results #outcome-bad {
+	text-align: center;
+	margin: 11px 0 -6px 0;
+	width: 100%;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#box #results #outcome-good {
+	color: #cfc;
+}
+
+#box #results #outcome-bad {
+	color: #f66;
+}
+
+#box #results #goback {
+	text-align: center;
+	margin: 18px 0 0 0;
+	width: 100%;
+}
+
+#box #results #goback a {
+	font-size: 14px;
+	color: #fff;
+	text-decoration: none;
+	font-style: normal;
+}
+
+#box #results #goback a:hover {
+	text-decoration: underline;
+}
+
+#report-form, #report-success-form {
+	font-size: 12px;
+}
+
+#report-form input, #report-form label, #report-form textarea {
+	display: block;
+	padding: 5px;
+	width: 95%;
+}
+
+.ui-dialog-title {
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.ui-button-text {
+	font-size: 12px;
+}
+
+#whois-result, #updates {
+	font-family: "Courier New", monospace;
+	font-size: 12px;
+	white-space: pre;
+	overflow-x: hidden;
+}
+
+#updates {
+	color: #fff;
+}
+
+#author {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 11px;
+	color: #fff;
+	position: absolute;
+	z-index: 100;
+	bottom: 5px;
+	right: 5px;
+	padding: 5px;
+	text-align: right;
+}
+
+#author a {
+	text-decoration: none;
+	color: #fff;
+}
+
+#author a:hover {
+	text-decoration: underline;
+}

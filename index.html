@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>mdurussel.net</title>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script type="text/javascript">
+	$(function(){
+		$('#welcome').animate({fontSize: '130px'}, 500);
+		$('#welcome').click(function(){
+			$('#welcome').html('See ya!');
+			$('#welcome').animate({fontSize: '0px'}, 800);
+		});
+	});
+</script>
+</head>
+
+<body background="bg.png">
+	<table width="100%" height="100%">
+		<tr>
+			<td align="center" valign="middle">
+				<span id="welcome" style="font-family:'Open Sans';font-size:60px;color:#fff;">Welcome.</span>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

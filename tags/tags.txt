@@ -1,0 +1,316 @@
+Squarespace4 - Customers on a Squarespace 4 site
+Squarespace5 - Customers on a Squarespace 5 site
+Squarespace6 - Customers on a Squarespace 6 site
+
+Chat-Open - Tickets received or worked on by Live Chat team
+Duplicate - Cases that are duplicate inquiries from customers
+Spam-Close - Cases that are confirmed spam messages
+Spam-RTS - Cases/emails that are undelivered or mention "returned to sender"
+Voicemail - Cases created through voicemail, then brought into Desk
+
+Pretrial - No account associated with customer or inquiries before they start trial
+Reactivated - Account reactivated for trial extension
+Internal - Accounts that have Internal status
+
+Contributors - Anything related to Contributor functionality
+DeveloperPlatform - Questions about the developer platform
+Extension - Customers recieving a trial extension
+HowToContactCustCare - Use when you are telling a customer how to submit a support ticket from their site manager
+RemoveTrial - Request to remove a trial account
+TOS - Cases related or referred to Squarespace TOS
+TrialExpEmailButUpgraded - Customer received a trial expiration email but says they have already subscribed and paid
+
+Billing-businessExpense - A customer mentions that they need billing info because of business expense/tax/documentation purposes
+Billing-cancel - Request to or how to cancel a paid account
+Billing-cardDeclined - Customer received a message that their credit card was declined
+Billing-CCpaymentAlternative - Customer asks if they can pay for SS service with something other than a credit card
+Billing-chargeback - Inquiries, threats or customers confirming they've charged back an invoice
+Billing-clientSetup - Questions related to setting up accounts and billing process for an account for a client
+Billing-coupon - Customer requesting coupon or having coupon issues
+Billing-coupon/podcast - Customer has a question about using a coupon that is from a podcast
+Billing-delayChargeRequest - Customer asks if they can have more time before the next time they are charged for SS service
+Billing-invoiceView - Request to view their invoice
+Billing-linking - Anything related to linking Squarespace 5 and 6 billing
+Billing-lookup - Cases where we need to look up the account via the billing info
+Billing-manageMultSites - Questions regarding billing for a customer with multiple sites
+Billing-overcharge - Customer claims they have been overcharged
+Billing-pastdue - Customer explains that they have missed a payment or received an error due to a payment pastdue
+Billing-plan/changeAction - Request for support to change their plan.
+Billing-plan/changeQuestion - Questions about changing plans
+Billing-purchaseAsGift - Questions about purchasing a SS account as a gift for another person
+Billing-reactivate - Customer indicates that they are returning to SS and would like to reactivate their site
+Billing-refund/NotRecieved - Complaint that requested a refund and did not receive it
+Billing-refund/Request -Customer requesting a refund
+Billing-renewalConfusion - Questions about when their renewal is, or any general questions about the renewal process
+Billing-requestToConfirm - Customer writes in just requesting confirm that a payment went through or something they changed has been processed.
+Billing-signup - Anything related to account signup
+Billing-signup/WrongAccount - Customer upgrades the wrong trial account
+Billing-transferOwner - Questions about transferring a SS account to another person
+Billing-updateInfo - Request to or question about changing billing information
+
+Account-Mixup - When customers meant to contact us regarding a different account
+Account-MultipleAccounts - Questions regarding having more than one account or site
+Account-NameChange - Customer requesting or asking how to change their account name/identifier
+
+Storage-HowMuch - Customers wondering how much storage they get with their site
+Storage-limit - Questions pertaining to file-size/limit in V5 File Storage
+Storage-viewUsage - Inquiries about viewing usage or statistics related to file storage in our platform
+
+EmailDelay - Any cases reporting an email delay, or not receiving site-side emails
+Escalated - Cases escalated to other departments or supervisors
+Fix-pending - JIRA or Billing cases which await resolution (this prevents a survey message going out)
+IE_Issues - All issues with a feature or function that does not work/display correctly in Internet Explorer
+JiraTicketAdded - A JIRA ticket has been created for the case mentioned
+Slowness - Anything related to site load speed or perceived slowness
+Timeout - When customers are logged out of the site due to inactivity
+
+Concierge-Doing - Concierge sites that are currently in production
+Concierge-Finished - Concierge sites that are fully completed
+Concierge-FollowUp - Sites in review, but require customer followup
+Concierge-InfoRequest - Customer replied to concierge marketing email
+Concierge-Paid - Paid for Concierge
+Concierge-PhoneCall - Customer has received first phone call
+Concierge-Potential - Customer hasn't be accepted or rejected for program, but are still in review
+Concierge-ReachedOut - Reaching out to see if customer is good fit for program
+Concierge-Reworking - Sites in review, but customer requires additional changes
+Concierge-SurveyedFirst - Customer filled out survey prior to Squarespace contact
+Concierge-VIP - Concierge service for VIP / special clients
+
+CustomerSolved - Customer follows up on a ticket saying they have solved the problem themself
+HappyNote - Cases where customers are pleased with the service
+Testimonial - Cases where customers provide a testimonial which can be used for marketing purposes
+TicketUnansweredClaim - Customer claims they sent a ticket that has not been answered
+
+72Hours - Assigned case notification after 72 hours of inactivity
+Surveyed - Customers who've replied to our survey
+VIP - Cases which receive special attention or priority based on customer status (dropped into VIP queue)
+
+Suggestion - A general suggestion
+Suggestion-ApptBooking - Request for appointment booking functionality
+Suggestion-blogdates - Request for more flexible date formatting options for blog published on dates (European, for example).
+Suggestion-clonepost - Copy a blog post including its layout and content blocks.
+Suggestion-Commerce/Donations - Questions about being able to collect donations through SS
+Suggestion-Commerce/Paywall - Questions related to building a site where visitors have to pay a fee to access content
+Suggestion-Commerce/TrackingNumber - Request to include tracking numbers in order invoices sent to Commerce purchasers
+Suggestion-Commerce/V5 - Customer asking if commerce will be available on V5
+Suggestion-ContributorPermissions - Anything related to having multiple contributors to one account and/or setting up specific permissions for each one (or groups)
+Suggestion-email - Requesting email addresses with their domain/email hosting
+Suggestion-export6to6 - Request for an option to completely export a Squarespace 6 site and import it into another Squarespace 6 site.
+Suggestion-forums - Request for a Forum collection and/or block.
+Suggestion-gplusbusiness - Request for the ability to link to the Google + Business page rather than the personal page.
+Suggestion-hostvideo - Request to upload video directly to Squarespace and display it on their pages as well as video podcasters looking to upload directly.
+Suggestion-mobilecomment - Issue related to users unable to comment on mobile device due to login pop-up obstruction
+Suggestion-MembersOnly - Wants to build a site that has a members only area with a login required.
+Suggestion-multistyles - Per page styles
+Suggestion-pagesidebars - Page specific sidebars or sidebar content
+Suggestion-StartOver - Customer asking if they can reset their site/start over with no content or the original sample content
+Suggestion-undo - Undo option for removal of page blocks/versioning
+
+Affiliate - Customer inquiries about our Affiliate program
+Sponsorship - Customer sponsorship requests
+
+Marketing-EmailReply - A customer replies to a SS marketing email
+Marketing-ReferAFriend - Questions about if there is any referral program/benefits
+Marketing-RemovePoweredBySQSP - Can the Powered By SQSP be removed
+
+BD-Education - Questions regarding an education specific relationship with Squarespace, ie. something special for students that is not about a discount
+BD-Education/discountRequest - Anything related to getting a student discount
+BD-Education/refund - EDU-discounted accounts that received a refund due to sign-up confusion
+BD-Nonprofit - Questions about relationship between SS and nonprofits, that is not asking for a discount
+BD-Nonprofit/discountRequest - Anything related to getting a Nonprofit discount
+
+Accessibility - All questions or issues centering around accessibilty for disabled users.
+Navigation - When customers report top and side navigation has switched in V5
+Members - Anything related to Squarespace 5 Member functionality
+RSS - Anything related to RSS, XML or ATOM feeds
+Search-SiteAdmin - Questions about the search in the site manager
+Slideshow - Anything related to the V5 Slideshow feature
+Statistics - Inquiries/Issues related to site-based analytics
+Translation - Anything related to translation or having the site in two languages
+
+Blocks-500px - Anything related to 500px integration or use
+Blocks-AmazonItem -  ... Amazon Item block integration or use
+Blocks-Audio - ... the Audio block
+Blocks-AuthorIndex - ... the Author Index block
+Blocks-Calendar - ... the Calendar block
+Blocks-CategoryIndex - ... the Category Index block
+Blocks-Code - ... the Code block
+Blocks-CollectionLink - ... the Collection Link block
+Blocks-Embed - ... the Embed block
+Blocks-ExternalLink - ... the External Link block
+Blocks-Flickr - ... Flickr block integration or use
+Blocks-Form - ... the Form block
+Blocks-Foursquare - ... Foursquare block integration or use
+Blocks-Gallery - ... the Gallery block
+Blocks-HorizontalRule - ... the Horizontal Rule block
+Blocks-Image - ... the Image block
+Blocks-Instagram - ... Instagram block integration or use
+Blocks-Map - ... the Map block
+Blocks-Markdown - ... the Markdown block
+Blocks-MonthIndex - ... the Month Index block
+Blocks-Menu - ... the Menu block
+Blocks-Quote - ... the Quote block
+Blocks-RSS - ... the RSS block
+Blocks-Search - ... the Search block
+Blocks-SocialLinks - ... the Social Link block
+Blocks-Space - ... the Space block
+Blocks-Summary - ... the Summary block
+Blocks-TagCloud - ... the Tag Cloud block
+Blocks-TagIndex - ... the Tag Index block
+Blocks-Text - ... the Text block
+Blocks-Twitter - ... Twitter block integration or use
+Blocks-Video - ... the Video block
+
+Commerce-Categories - Inquiries/issues related to product categorization, how to display
+Commerce-ConciergePotential - Customers who would be candidates for Conceirge assistance
+Commerce-Confusion - General confusion about functionality of the Commerce offering
+Commerce-DigitalGood - Anything related to sale of Digital Goods or digital file mechanics
+Commerce-DigitalGood/music - Questions related to selling music on
+commerce platform
+Commerce-GettingStarted - Questions about how to sell things in general, or where to start
+Commerce-Import - Anything related to importing products to Commerce
+Commerce-International - Inquiries related to International product sales
+Commerce-InventoryManagement - Commerce -> Inventory and questions on those functions
+Commerce-Marketing - Questions related to Commerce or product marketing
+Commerce-Music - Inquiries/issues related to Music distribution or sale through Commerce
+Commerce-Payment - Inquiries/issues related to Cart or customer payment mechanics
+Commerce-Payment/Stripe - Questions related to Stripe as a payment gateway on the commerce platform
+Commerce-Paywall - Do we offer a subscription-based site or page
+Commerce-PhysicalGood - Anything related to sale of Physical Goods
+Commerce-Policy - Inquiries related to site-specific TOS, Return Policy
+Commerce-Productblock - Anything related to Product Block functionality or product creation
+Commerce-Recurring - Requests/suggestion for recurring payment feature
+Commerce-Shipping - Anything related to shipping or shipping rate calculation
+Commerce-Stripe - Anything related to Stripe or its integration
+Commerce-Stripe/Beta - Inquiries related to International beta or other Stripe beta scenarios
+Commerce-Tax - Anything related to tax or tax calculation
+Commerce-Templates - Requests or mentions of templates best suited for Commerce sites
+Commerce-Variant - Anything related to Product & Variants
+
+Template-amelie - Anything related to the Amelie template
+Template-atelier - ... the Atelier template
+Template-avenue - ... the Avenue template
+Template-aviator - ... the Aviator template
+Template-beatrice - ... the Beatrice template
+Template-boutique - ... the Boutique template
+Template-bricktop - ... the Bricktop template
+Template-devlin - ... the Devlin template
+Template-dovetail - ... the Dovetail template
+Template-five - ... the Five template
+Template-flatiron - ... the Flatiron template
+Template-frontrow - ... the Frontrow template
+Template-hudson - ... the Hudson template
+Template-IndexPage - Confusion or how-tos about index pages
+Template-ishimoto - ... the Ishimoto template
+Template-jenga - ... the Jenga template
+Template-jensen - ... the Jensen template
+Template-jirick - ... the Jirick template
+Template-metro - ... the Metro template
+Template-minsk - ... the Minsk template
+Template-montauk - ... the Montauk template
+Template-momentum - ... the Momentum template
+Template-native - ... the Native template
+Template-particle - ... the Particle template
+Template-peak - ... the Peak template
+Template-qubert - ... the Qubert template
+Template-takk - ... the Takk template
+Template-switching - Customer inquiries about switching site templates
+Template-wells - ... the Wells template
+Template-wexley - ... the Wexley template
+
+Social-500px - Anything related to 500px account integration under Connected Accounts
+Social-Accounts - Issues related to connecting, configuring or removing SS6 social accounts
+Social-dribble - ... Dribbble account integration
+Social-dropbox - ... Dropbox account integration
+Social-email - ... email account integration
+Social-facebook - ... Facebook account integration
+Social-flickr - ... Flickr account integration
+Social-foursquare - ... Foursquare account integration
+Social-google - ... Google/G+ account integration
+Social-instagram - ... Instagram account integration
+Social-linkedin - ... LinkedIn account integration
+Social-pinterest - ... Pinterest account integration
+Social-smugmug - ... Smugmug account integration
+Social-sharing - Any issue related to sharing to social profiles
+Social-tumblr - ... Tumblr account integration
+Social-twitter - ... Twitter account integration
+Social-vimeo - ... Vimeo account integration
+Social-widgets - Any issues related to the V5 Flickr, Twitter, or RSS widgets
+Social-youtube - ... YouTube account integration
+
+Media-audio - Anything related to video files, video embeds or services
+Media-podcast - Questions regarding having podcast as a media type
+Media-video - Anything related to audio files or podcasts
+
+App-Android/Manager - Issues/inquiries related to Android version of Squarespace Manager
+App-Android/ReviewUs - Requesting customer review us in Google Play
+App-iOS/ReviewUs - Requesting customer review us in the iTunes App Store
+App-iPad/Manager - Anything related to iPad version of Squarespace Manager
+App-iPad/ManagerHelp - Notifying customer of "?" help area in iPad app
+App-iPhone/Manager - Issues/inquiries related to iPhone version of Squarespace Manager
+App-iPhone/ManagerHelp - Notifying customer of "?" help area in iPhone app
+App-Note/Crash - Issues with Note app crashing
+App-Note/iOS - Anything related to Squarespace Note app for iOS
+App-Portfolio/iOS - Issues/inquiries related to iPhone version of Squarespace Manager
+
+Design-Alignment - ... moving elements positioning
+Design-Background - ... background images or settings
+Design-Color - ... element or font colors
+Design-Fonts/Typekit - Questions about Typekit
+Design-Fonts/Google - ... Google fonts
+Design-Fonts - ... fonts in general
+Design-Spacing - ... element or block spacing/padding
+Design-Width - ... element/block widths
+
+Domain - General domain questions
+Domain-DNS - Questions or issues related to DNS settings (CNAME and A Record)
+Domain-Email - Customer requests/inquiries to tie their email to a third-party domain
+Domain-Managed - Questions related to domains managed through SS
+Domain-ManagedEmail - Having an email with a domain that is managed through SS
+Domain-Redirect - Questions about redirecting traffic from one domain to another including 301/302
+Domain-TLD - Questions related to having a TLD that is not .com
+
+Mobile-Android - ... Android mobile that is not related to SS apps
+Mobile-iPad - ... iPads that is not related to SS apps
+Mobile-iPhone - Anything related to iPhone that is not related toSS apps
+
+Login-ChangePassword - Customers requesting help changing a password
+Login-InvalidEmail - Login fail due to invalid or incorrect email address
+Login-ForgotPassword - User has forgotten their password or login has failed because of bad password
+Login-Frontsite - Issues with a customer logging in on the SS frontsite
+
+Code-CSS - Anything related to the use of CSS or our CSS editor
+Code-JavaScript - ... JavaScript integration or functionality
+Code-PHP - ... PHP funcitonality
+Code-Snippets - ... V5 HTML snippets
+Code-SQL - ... SQL queries or functionality
+
+Content - General content questions
+Content-Export - Content exporting from SS
+Content-Import - Content importing to SS
+Content-ReturnLater - Questions about if a site is left inactive and the customer returns later, will their content still be there or will it be erased.
+Content-Upload - Uploading content to SS
+
+Workshop-ReferTo - A support agent refers a workshop to a customer
+Workshop-EmailReply - A customer replies to a workshops email
+Workshop-Feedback - Customer feedback on a specific workshop
+Workshop-Request - Request for a workshop on a specific topic
+
+Comments-Captcha - Issues related to comment CAPTCHA
+Comments-Moderation - Issues or inquiries related to comment moderation
+Comments-NotSeeing - Unable to see comments on their site
+
+SEO-DomainChangeImpact - Questions about if changing a domain name will impact the site's current SEO
+SEO-GoogleIndexing - Complaints or questions about showing up in google search results
+SEO-Optimization - Questions about how to do search engine optimization
+
+Pages - General page questions
+Pages-Events - Questions about the Events page, or list/calendar functionality within
+Pages-Folder - Anything related to a Folder or its functionality
+Pages-Gallery - Questions about gallery pages, NOT blocks or indexes
+Pages-Link - Anything related to the Link page, which provides internal/external links in nav
+Pages-Page - Anything related to the regular Page, which allows all block opportunities
+Pages-RecoverPage - Customer requests for us to manually restore Page content
+
+Image-Edit - … editing or modifying an image or utilizing Aviary
+Image-Format - Anything related to image file type, such as .png, .jpg,.gif
