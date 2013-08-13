@@ -20,6 +20,14 @@
             $('#digResult').html( data );
         });
     }
+    function runWhois() {
+        var domain = $('#domainName').val();
+        $.get('whois.php', {
+            domain: domain
+        }, function(data){
+            $('#digResult').html( data );
+        });
+    }
 </script>
 </head>
 <body>
@@ -27,7 +35,7 @@
 <table width="100%" height="100%">
     <tr><td align="center" valign="middle">
     
-        <table width="550px" cellspacing="0">
+        <table id="mainTable" width="550px" cellspacing="0">
             <tr><td id="digTop">
                 Domain: <input type="text" id="domainName" size="30">&nbsp;&nbsp;
                 Record: <select id="recordType"><option value="ANY">ANY</option><option value="A">A</option><option value="MX">MX</option><option value="CNAME">CNAME</option></select>
@@ -35,7 +43,7 @@
                 Name Server: <input type="text" id="nameServer" size="20">&nbsp;&nbsp;<input type="checkbox" id="shortResult" value="Short">&nbsp;Short
                 <br/>
                 <i>* Keep name server blank to use local name server</i>
-                <div style="float:right"><input type="button" onclick="runQuery()" value="Run Query">&nbsp;<input type="button" onclick="runQuery(1)" value="WWW"></div>
+                <div style="float:right"><input type="button" onclick="runQuery()" value="Run Query">&nbsp;<input type="button" onclick="runQuery(1)" value="WWW">&nbsp;<input type="button" onclick="runWhois()" value="Whois"></div>
             </td></tr>
             <tr><td id="digResult">
                 Result here..
